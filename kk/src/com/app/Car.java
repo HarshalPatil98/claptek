@@ -1,0 +1,19 @@
+package com.app;
+
+public class Car {
+	
+	private PEngine eng;
+	
+	public void setEng(PEngine eng)
+	{
+		this.eng=eng;
+	}
+	
+	
+	public void drive()
+	{
+		eng.start();
+		System.out.println("started");
+	}
+
+}

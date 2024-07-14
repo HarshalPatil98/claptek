@@ -16,4 +16,7 @@
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.app.Car"/>
+    <fullyQualifiedTypeName name="com.app.deseengine"/>
+    <fullyQualifiedTypeName name="com.app.PEngine"/>
 </qualifiedTypeNameHistroy>
